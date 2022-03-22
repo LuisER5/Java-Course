@@ -14,7 +14,6 @@ public class Main {
         char[] opCodes = { 'd', 'a', 's', 'm' };
         double[] results = new double[opCodes.length];
 
-        System.out.println(Arrays.toString(args));
         if (args.length == 0) {
             for (int i = 0; i < opCodes.length; i++){
                 results[i] = execute(opCodes[i], leftValues[i], rightValues[i]);
