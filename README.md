@@ -2,7 +2,7 @@
 This project explore basic concepts of java, the project is a calculator and there are three forms to use:
 
 ## First way
-You can use the command line pointing to the project
+You can use the command line pointing to the project and run it with java commands
 
 ## Second way
 Just run the project and see the result, there are default values so you can run from your IDE
